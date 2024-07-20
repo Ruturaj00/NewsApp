@@ -22,6 +22,7 @@
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
+          "baseHref": "https://Ruturaj00.github.io/news-app/",
           "options": {
             "outputPath": "dist/news-app",
             "index": "src/index.html",
